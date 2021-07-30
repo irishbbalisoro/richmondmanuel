@@ -21,7 +21,8 @@
 title: Richmond Manuel
 email: richmond061094@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Richmond Manuel's portfolio blog site. This website is powered by Jekyll and hosted on Github.
+  Welcome to Richmond Manuel's portfolio blog site.
+  This website is powered by Jekyll and hosted on Github.
 baseurl: "/richmondmanuel" # the subpath of your site, e.g. /blog
 url: "https://richmond061094.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: richmond061094
